@@ -1,5 +1,5 @@
+![fondo](https://user-images.githubusercontent.com/69727640/126084690-320862ef-9e14-4729-9ac9-6abb6bc43098.png)
 
-![BannerKhaleb](https://user-images.githubusercontent.com/69727640/126046066-5c9f113e-0248-42ae-ac6e-d07ad6cc9855.png)
 
 
 <!--
