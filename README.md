@@ -1,6 +1,10 @@
 ## <div> Hola Soy Khaleb Alonzo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></div>
+<img src="https://user-images.githubusercontent.com/69727640/141851781-be25478c-2a8a-44c9-a23d-847c60734585.png" width="320px"> 
+
 #### Ingeniero de Software <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 #### Tegucigalpa Honduras 🗺
+
+
 ______
 #### Tengo conocimientos sobre:
 
@@ -24,7 +28,7 @@ ______
 
  ##### ⭕Others
  
- - FireBase, Postman, Git y Github, Power App...
+ - FireBase, Postman, Git y Github, Power App, WordPress...
 
 
 
