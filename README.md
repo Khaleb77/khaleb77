@@ -1,8 +1,30 @@
-# <div><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Hi I'm Khaleb Alonzo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></div>
+## <div> Hola Soy Khaleb Alonzo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></div>
+#### Ingeniero de Software <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+#### Tegucigalpa Honduras 🗺
+______
+#### Tengo conocimientos sobre:
+
+##### 1️⃣Programming languages
+
+- C# (Windows Forms, WPF), Java
+- Javascript, TypeScript
+- SQL
+
+
+##### 2️⃣FrontEnd Development
+
+- Html, Css, Sass, Bootstrap, Materialize,  JavaScript(Reactjs)
+
+
+##### 3️⃣Database
+
+- MySQL, MariaDB, Sql Server, SQlite, Oracle
 
 
 
-
+ ##### ⭕Others
+ 
+ - FireBase, Postman, Git y Github, Power App...
 
 
 
