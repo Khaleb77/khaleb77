@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/69727640/141851781-be25478c-2a8a-44c9-a23d-847c60734585.png" width="320px"> 
 
 #### Ingeniero de Software <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-#### Tegucigalpa Honduras 🗺
+#### Tegucigalpa, Honduras 🗺
 
 
 ______
